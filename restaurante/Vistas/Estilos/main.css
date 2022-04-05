@@ -1,0 +1,424 @@
+.Pedido_Detalle{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Pedido_Detalle td, .Pedido_Detalle th{
+    border: 1px solid black;
+    padding: 8PX;
+   
+   
+    justify-content: center;
+}
+
+.Pedido_Detalle tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Pedido_Detalle th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: coral;
+    color: black;
+}
+
+
+table, th, td{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+
+//Pedido cabecera//
+
+.Pedido_Cabecera{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Pedido_Cabecera td, .Pedido_Cabecera th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.Pedido_Cabecera tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Pedido_Cabecera:hover{
+    background-color: darkturquoise;
+}
+
+.Pedido_Cabecera th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: goldenrod;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+.Menu{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Menu td, .Menu th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.Menu tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Menu:hover{
+    background-color: darkturquoise;
+}
+
+.Menu th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: darkorange;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+
+.venta{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.venta td, .Venta th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.venta tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.venta:hover{
+    background-color: darkturquoise;
+}
+
+.venta th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: aqua;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+
+.Ciudad{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Ciudad td, .Ciudad th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.Ciudad tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Ciudad:hover{
+    background-color: darkturquoise;
+}
+
+.Ciudad th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: darksalmon;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+
+.Localidad{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Localidad td, .Localidad th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.Localidad tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Localidad:hover{
+    background-color: darkturquoise;
+}
+
+.Localidad th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: khaki;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+
+.Documento{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Documento td, .Documento th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.Documento tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Documento:hover{
+    background-color: darkturquoise;
+}
+
+.Documento th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: chartreuse;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+
+.Usuario{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Usuario td, .Usuario th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.Usuario tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Usuario:hover{
+    background-color: darkturquoise;
+}
+
+.Usuario th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: orange;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}

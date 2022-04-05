@@ -1,0 +1,60 @@
+.Formulario{
+    width: 600px;
+    height: 350px;
+    border-radius: 2rem;
+    margin: auto;
+    padding: 2rem 3rem;
+    display: flex;
+    background-color: deepskyblue;
+    align-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+         
+}
+
+.Lista{
+    
+   flex-wrap: wrap;
+    align-items: letf;
+    width: 600px;
+    margin-top: 15px;
+    flex-direction: row;
+    
+}
+
+h1{
+    color: gold;
+    text-align: center;
+}
+
+.botoncito{
+    color: white;
+    padding: 0rem 1rem;
+    margin-bottom: 2rem;
+    float: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 100;
+    font-size: 100%;
+    background-color: crimson;
+    
+}
+
+.Cuadro{
+    background-color: white;
+    height: 320px;
+}
+
+.Cuadrox{
+    background-color: white;
+    height: 340px;
+}
+
+.Licu{
+    background-color: white;
+    height:20px;
+    padding: 1REM 1rem;
+}
+
+

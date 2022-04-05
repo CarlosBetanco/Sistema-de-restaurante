@@ -1,0 +1,52 @@
+.Pedido_Cabecera{
+    border-collapse: collapse;
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+.Pedido_Cabecera td, .Pedido_Cabecera th{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.Pedido_Cabecera tr:nth-child(even){
+    background-color: darkgray;
+}
+
+.Pedido_Cabecera:hover{
+    background-color: darkturquoise;
+}
+
+.Pedido_Cabecera th{
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: goldenrod;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
+
